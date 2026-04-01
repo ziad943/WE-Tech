@@ -12,7 +12,7 @@ const products = [
     name: 'WE Tech Laptop Pro',
     description: 'High-performance laptop for developers and students. Features a 15-inch display, 16GB RAM, and 512GB SSD.',
     price: 1299.99,
-    image: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&q=80&w=1000',
+    image: '/images/photo-1496181133206-80ce9b88a853.avif',
     category: 'Laptops',
     featured: true
   },
@@ -21,7 +21,7 @@ const products = [
     name: 'Smart Watch Series 5',
     description: 'Stay connected with notifications, fitness tracking, and heart rate monitoring.',
     price: 249.99,
-    image: 'https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&q=80&w=1000',
+    image: '/images/photo-1541807084-5c52b6b84594.avif',
     category: 'Accessories',
     featured: true
   },
@@ -30,7 +30,7 @@ const products = [
     name: 'Noise Cancelling Headphones',
     description: 'Premium sound quality with active noise cancellation for immersive listening.',
     price: 349.99,
-    image: 'https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&q=80&w=1000',
+    image: '/images/photo-1505740420928-5aac64646d1d.avif',
     category: 'Audio',
     featured: true
   },
@@ -39,7 +39,7 @@ const products = [
     name: 'Mechanical Keyboard RGB',
     description: 'Tactile mechanical switches with customizable RGB lighting for the ultimate typing experience.',
     price: 129.99,
-    image: 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&q=80&w=1000',
+    image: '/images/photo-1504410269892-74c063a5d8d3.avif',
     category: 'Accessories'
   },
   {
@@ -47,7 +47,7 @@ const products = [
     name: 'Ultra-Wide Monitor 34"',
     description: 'Boost your productivity with a massive ultra-wide curved display.',
     price: 599.99,
-    image: 'https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&q=80&w=1000',
+    image: '/images/photo-1509276972460-8530e2f4a1d4.avif',
     category: 'Monitors'
   },
   {
@@ -55,7 +55,7 @@ const products = [
     name: 'Wireless Gaming Mouse',
     description: 'High-precision sensor with zero-latency wireless connection.',
     price: 79.99,
-    image: 'https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&q=80&w=1000',
+    image: '/images/photo-1558841026-9d4c9a0a0e6e.avif',
     category: 'Accessories'
   }
 ];
